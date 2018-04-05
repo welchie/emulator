@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/mame/1942-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./arknoid2.zip</path>
+		<name>Arkanoid</name>
+		<desc>Arkanoid (アルカノイド Arukanoido) is an arcade game developed by Taito in 1986. It expanded upon Atari's Breakout games of the 1970s by adding power-ups, different types of bricks, a variety of level layouts, and visual layering and depth. The title refers to a doomed "mothership" from which the player's ship, the Vaus, escapes. Arkanoid revived the Breakout concept, resulting in many clones and similar games for home computers, even over a decade later.
+
+The player controls the "Vaus", a space vessel that acts as the game's "paddle" which prevents a ball from falling from the playing field, attempting to bounce it against a number of bricks. The ball striking a brick causes the brick to disappear. When all the bricks are gone, the player goes to the next level, where another pattern of bricks appears. There are a number of variations (bricks that have to be hit multiple times, flying enemy ships, etc.) and power-up capsules to enhance the Vaus (expand the Vaus, multiply the number of balls, equip a laser cannon, break directly to the next level, etc.), but the gameplay remains the same.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/arknoid2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito Romstar</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./asteroid.zip</path>
+		<name>Asteroids</name>
+		<desc>The objective of Asteroids is to score as many points as possible by destroying asteroids and flying saucers. The player controls a triangular-shaped ship that can rotate left and right, fire shots straight forward, and thrust forward. As the ship moves, momentum is not conserved — the ship eventually comes to a stop again when not thrusting. The player can also send their ship into hyperspace, causing it to disappear and reappear in a random location on the screen (with the risk of self-destructing or appearing on top of an asteroid).</desc>
+		<image>~/.emulationstation/downloaded_images/mame/asteroid-image.jpg</image>
+		<releasedate>19790701T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./bombjack.zip</path>
+		<name>Bomb Jack</name>
+		<desc>The player controls Jack, a superhero who can leap and glide. Someone has planted 24 bombs at famous tourist sites (the Sphinx and Great Pyramids, the Acropolis, Neuschwanstein Castle in Bavaria, and two cityscapes resembling Miami Beach and Hollywood, which appear only as screen backgrounds rather than unique game locations). Jack must fly around the screen to collect the bombs. Each screen uses a different configuration of platforms upon which Jack may run and jump. Eventually, the levels reoccur a number of times with increasing difficulty.
+
+Jack "defuses" the bombs by simply touching them. As soon as he has touched the first, he triggers a sequence in which another bomb's fuse lights up, and so on. A player can score a bonus in each round by touching 20 or more bombs in the correct lit-fuse sequence. Jack may also defuse an unlit bomb by touching it, but this impedes his opportunity to score the bonus for that screen. It also delays the appearance of the game's bonuses and power-ups.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/bombjack-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19840214T000000</releasedate>
+		<developer>Tehkan</developer>
+		<publisher>Tehkan</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./bombrman.zip</path>
+		<name>Bomber Man</name>
+		<desc>Bomberman (known as Dynablaster in Europe and Atomic Punk in the USA) is a maze-based action game. It features a single and multiplayer mode.
+
+The player must defeat all the enemies on screen to advance to the next level. Unlike most Bomberman titles, the exit does not need to be found to advance. Power-ups reset to their default abilities on each stage with items being readily available at the start of each boss fight. There are six stages in each world and six worlds total. This mode can support up to 4 players in co-op.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/bombrman-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Irem</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./centiped.zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented shoot 'em up arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg and Dona Bailey. The player defends against centipedes, spiders, scorpions and fleas, completing a round after eliminating the centipede that winds down the playing field.
+
+The centipede starts at the top of the screen, traveling either left or right. When it hits a mushroom or the edge of the screen, it drops one level and switches direction. Thus, more mushrooms on the screen cause the centipede to descend more rapidly. The player can destroy mushrooms by shooting them, but each takes four hits to destroy.
+
+If the centipede reaches the bottom of the screen, it moves back and forth within the player area and one-segment "head" centipedes are periodically added. This continues until the player has eliminated both the original centipede and all heads. When all the centipede's segments are destroyed, a new centipede forms at the top of the screen. Every time a centipede is eliminated, however, the next one is one segment shorter and is accompanied by one additional, fast-moving "head" centipede.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/centiped-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./defender.zip</path>
+		<name>Defender</name>
+		<desc>Defender is an arcade video game developed released by Williams Electronics in 1980. A shooting game featuring two-dimensional (2D) graphics, the game is set on a fictional planet where the player must defeat waves of invading aliens while protecting astronauts. Development was led by Eugene Jarvis, a pinball programmer at Williams; Defender was Jarvis's first video game project, and drew inspiration from Space Invaders and Asteroids. Williams planned to display the game at the Amusement &amp; Music Operators Association (AMOA) trade show, though development delays resulted in the team working on the game up until the show started.
+
+Defender was commercially successful, selling over 55,000 units to become the company's best selling arcade game. Praise among critics focused on the game's audio-visuals and gameplay. It is frequently listed as one of Jarvis's best contributions to the video game industry, as well as one of the most difficult video games. Defender was ported to numerous platforms, inspired the development of other games, and was followed by sequels and many imitations.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/defender-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Williams Electronics</developer>
+		<publisher>Williams Electronics</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./digdug.zip</path>
+		<name>Dig Dug</name>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<desc>Donkey Kong is an arcade game released by Nintendo in 1981. It is an early example of the platform game genre, as the gameplay focuses on maneuvering the main character across a series of platforms while dodging and jumping over obstacles. In the game, Jumpman (since renamed Mario) must rescue a damsel in distress, Lady (now named Pauline) from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.
+The game was the latest in a series of efforts by Nintendo to break into the North American market. Hiroshi Yamauchi, Nintendo's president at the time, assigned the project to a first-time game designer named Shigeru Miyamoto. Drawing from a wide range of inspirations, including Popeye, Beauty and the Beast and King Kong, Miyamoto developed the scenario and designed the game alongside Nintendo's chief engineer, Gunpei Yokoi. The two men broke new ground by using graphics as a means of characterization, including cut scenes to advance the game's plot, and integrating multiple stages into the gameplay.
+Despite initial misgivings on the part of Nintendo's American staff, Donkey Kong proved a success in North America and Japan. Nintendo licensed the game to Coleco, who developed home console versions for numerous platforms. Other companies cloned Nintendo's hit and avoided royalties altogether. Miyamoto's characters appeared on cereal boxes, television cartoons, and dozens of other places. A lawsuit brought on by Universal City Studios, alleging Donkey Kong violated their trademark of King Kong, ultimately failed. The success of Donkey Kong and Nintendo's win in the courtroom helped position the company to dominate the video game market from its release in 1981, until the mid 1990s.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/dkong-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19810709T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/ddragon-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./frogger.zip</path>
+		<name>Frogger</name>
+		<desc>Frogger is an arcade game introduced in 1981. It was developed by Konami, and licensed for worldwide distribution by Sega/Gremlin. The object of the game is to direct frogs to their homes one by one. To do this, each frog must avoid cars while crossing a busy road and navigate a river full of hazards. Skillful players may obtain some bonuses along the way. The game is regarded as a classic from the golden age of video arcade games and was noted for its novel gameplay and theme. It was also an early example of a game using more than one CPU, as it used two Z80 processors.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/frogger-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19811023T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Sega/Gremlin</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./galaga88.zip</path>
+		<name>Galaga '88</name>
+		<desc>The gameplay in Galaga '88 is built on the same premise as that of the original Galaga game, but is in many ways more complex and more difficult. The game is divided into a series of 29 Stages distributed through eight Worlds. The starship Galaga accelerates between Stages and Worlds and even to higher dimensions (go to the section on Dimensional Travel below to find out more).
+
+With the exception of the third and eighth, each World culminates in a Challenging Stage. There are six such stages to engage in any full game, and each begins with the on-screen announcement "That's Galactic Dancin'!" and has its own YM2151-generated song to which the enemy formations dance. In any given Challenging Stage, both the design of the enemies and their dancing formations shall vary according to the player's current Dimension. As in Galaga, the objective is to destroy all forty enemies before they fly away off the screen. However, refraining completely from touching any controls for the duration of a Challenging Stage awards a "secret bonus" ranging in value from 10000 to 25000 points, and equal to the "special bonus" which would have been awarded for destroying all forty enemy aliens instead.
+
+Galaga '88 introduces a variety of new enemies and behaviors. Most of these special enemies are worth varying amounts of bonus points when destroyed. Some enemies can combine into larger enemies which take multiple hits to destroy, while others arrive in eggs, explode in a shower of fireworks, grow with multiple hits, or sport armor which makes them invincible while in formation. Certain enemies drop small formations of tiny creatures that wiggle their way down the screen, and still others can act as escorts to incoming groups of enemies and then quickly dive at the player before leaving the game. Most stages also include various obstacles which appear once the enemy formation has been assembled. These can be destroyed with either one or several shots, and the first one on each stage will leave a "Warp Capsule".
+
+At the start of the game, the player can select how many Galaga starships to start with (one or two), affecting their number of remaining lives. The game ends after the final boss is defeated (or when the player's last ship is destroyed or captured) - in the latter case, the player can continue the game for an additional credit. The Game Over screen shows the player's hit-miss ratio and a visual representation of their progress. If the player reaches Stage 27, the game also shows a picture of the final boss (damaged if defeated, but silhouetted if not). If the arcade operator has set the "continue" option to "on", the player also cannot continue if he is defeated on Stages 27-29.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/galaga88-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19871201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./galaxian.zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/galaxian-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19791001T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gauntlet.zip</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet is a fantasy-themed hack and slash 1985 arcade game by Atari Games. It is noted as the first class-based multiplayer game. Released during the emergence of popularity of other role-playing games like Dungeons &amp; Dragons, the game was a sensation, being one of the first true dungeon crawl arcade games.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/gauntlet-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./gaunt2.zip</path>
+		<name>Gauntlet II</name>
+		<desc>The gameplay is very similar to the original Gauntlet, a topdown dungeon crawl supporting up to four players. The biggest difference from the original game is that players can choose identical classes, instead of being limited to a particular one for each joystick; the players being differentiated by colors. Thus, instead of having a "warrior", "wizard", and "valkyrie" (for instance), in Gauntlet II there could be a "red wizard", a "blue elf" and a "green warrior".
+
+In addition to the new "class" system, new level designs were added, including the possibility of encountering them in altered ways by having the playfield turned in steps of 90°.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/gaunt2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860801T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./goldnaxe.zip</path>
+		<name>Golden Axe</name>
+		<desc>An evil entity known as Death Adder has captured the King and his daughter, and holds them captive in their castle. He also finds the Golden Axe, the magical emblem of Yuria, and threatens to destroy both the axe and the royal family unless the people of Yuria accept him as their ruler. Three Warriors set out on a quest to rescue Yuria and avenge their losses at the hands of Death Adder. The first is a battle axe-wielding dwarf, Gilius Thunderhead, from the mines of Wolud, whose twin brother was killed by the soldiers of Death Adder. Another is a male barbarian, Ax Battler, wielding a two handed broadsword looking for revenge for the murder of his mother. The last is a long-sword-wielding Tyris Flare, an amazon, whose parents were both killed by Death Adder.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/goldnaxe-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19890501T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gberet.zip</path>
+		<name>Green Beret</name>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./ikari.zip</path>
+		<name>Ikari Warriors</name>
+		<desc>Ikari Warriors is a 1986 arcade game by SNK, published in the United States and Europe by Tradewest. Known simply as Ikari (怒 ?, literally "fury") in Japan, this was SNK's first major breakthrough US release and became something of a classic. The game was released at the time when there were many Commando clones on the market. What distinguished Ikari Warriors were rotary joysticks and the two-player mode.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/ikari-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./karnov.zip</path>
+		<name>Karnov</name>
+		<desc>The game puts the bulging-muscled, fire-breathing, ex-circus strongman east-Russian hero on a quest through nine different levels to search for treasures. However, between him and the treasures were several horrendous monsters, including sword-wielding monks, dinosaurs, djinn, hopping fish men and ostrich-riding skeleton warriors.
+
+Players can make Karnov walk, jump and shoot his way through these levels and find special items that will help him on his way. He also can collect red orbs with which he can upgrade up to three fireballs at a time. Each level contains a variety of strange enemies, such as gargoyles, tree monsters, will-o-wisps rock creatures, centipede women, and hopping warriors, which Karnov must destroy or avoid. When he reaches the end of a level he usually has to face one or more bosses which he must defeat to beat the level and receive a new piece of a treasure map. In each level Karnov can collect a variety of items along the way, which can be chosen right away or only at certain times. At the end of the game he must face a powerful boss often called "The Wizard" and collect the treasure.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/karnov-image.png</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./lemmings.zip</path>
+		<name>LEMMINGS</name>
+		<desc>A platform game where the player has to designate certain lemmings for certain tasks &amp; try to figure a way to save as many of them from falling off cliffs and prevent them from dying in other ways. The lemmings can be set for walking (which they do by default), digging, climbing, building, blocking (preventing other lemmings from walking a certain direction), bashing, floating, and mining. There are several levels in 3 or 4 categories of difficulty.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/lemmings-image.jpg</image>
+		<releasedate>19911001T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./marble.zip</path>
+		<name>Marble Madness</name>
+		<desc>Marble Madness is an isometric platform game where the player manipulates an onscreen marble from a third-person perspective. The player controls the marble's movements with a trackball, though most home versions use game controllers with directional pads. The aim of the game is for the player to traverse six maze-like, isometric courses before a set amount of time expires. Each course has its own time limit, with the remaining time left over from completing a course added to the succeeding one.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/marble-image.jpg</image>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros.  is an arcade game published and developed by Nintendo in 1983. It was developed by Shigeru Miyamoto. 
+
+Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping. Unlike future Mario games, players cannot jump on enemies and squash them, unless they were already turned on their back. Each phase is a series of platforms with four pipes at each corner of the screen (in the old version along with an object called a "POW" block in the center). Both sides of every phase feature a mechanism that allows the player to go off-screen to the left and appear on the right and vice versa.
+The player gains points by defeating multiple enemies consecutively and can participate in a bonus round to gain more points. Enemies are defeated by kicking them over once they have been flipped on their back. This is accomplished by hitting the platform the enemy is on directly beneath them. If the player allows too much time to pass after doing this, the enemy will flip itself back over, changing in color and increasing speed. Each phase has a certain number of enemies, with the final enemy immediately changing color and increasing its speed to maximum. There are three enemies in all: the Shellcreeper, which simply walks around; the Sidestepper, which requires two hits to flip over; and the Fighter Fly, which moves by jumping and can only be flipped when it is touching a platform. Players may also make use of the above-mentioned "POW" block, which flips any enemy touching a platform or the floor when a player hits it from below. This item can be used three times before it disappears. Coins appear whenever enemies are defeated and may be collected for bonus points.
+As the game progresses, elements are added to increase the difficulty. Fireballs either bounce around the screen or travel directly from one side to the other, and Slipices can freeze platforms, causing Mario and Luigi to skid. In addition, icicles start to form under the platforms and fall loose. Bonus rounds give the players a chance to score extra points by collecting coins without having to deal with enemies; the "POW" block regenerates itself on each of these screens.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/mario-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./milliped.zip</path>
+		<name>Millipede</name>
+		<desc>Millipede is a 1982 arcade game by Atari, Inc. and is the sequel to the arcade hit, Centipede. The objective of the game is to score as many points as possible by destroying all segments of the millipede as it moves toward the bottom of the screen, as well as destroying and avoiding other enemies. The game is played with a trackball and a single fire button, which can be held down for rapid-fire. The game is over when the player's last life is lost.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/milliped-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./nspirit.zip</path>
+		<name>Ninja Spirit</name>
+		<desc>A ninja-based action game that has the player leading Moonlight through numerous enemy-riddled levels on a quest to exact revenge against his father's murderer. To accomplish this task Moonlight is armed with a katana, shurikens, bombs, and a sickle and chain weapon. Each weapon offers its own advantages and must be used at certain times to overcome specific obstacles or opponents. 
+
+The game's coin-op origins are evident in the fact that that the home versions do not have passwords or saves. To compensate for this, however, adjustable difficulty settings were added.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/nspirit-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>outrun</name>
+		<playcount>1</playcount>
+		<lastplayed>20180404T152206</lastplayed>
+	</game>
+	<game>
+		<path>./pacman.zip</path>
+		<name>pacman</name>
+		<playcount>1</playcount>
+		<lastplayed>20180404T152236</lastplayed>
+	</game>
+	<game>
+		<path>./pang.zip</path>
+		<name>Pang</name>
+		<desc>The Buster brothers must finish a round-the-world quest to destroy bouncing balloons that are terrorizing several of Earth’s landmarks and cities. The fight to save the Earth begins on Mt. Fuji, Japan where the brothers must pass all three stages before moving on to the next location.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/pang-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890401T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Mitchell Corp.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./paperboy.zip</path>
+		<name>Paperboy</name>
+		<desc>Paperboy is a 1985 arcade game developed and published by Atari Games. The player takes the role of a paperboy who delivers a fictional newspaper called "The Daily Sun" along a suburban street on his bicycle. The game was ported to a wide range of video game consoles and personal computers.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/paperboy-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./phoenix.zip</path>
+		<name>Phoenix</name>
+		<desc>Phoenix is an outer space-themed, fixed shooter video game similar to Taito's Space Invaders. It was developed by Amstar Electronics (which was located in Phoenix, Arizona) in 1980,[1] and released by Centuri in the United States and by Taito in Japan.[2][3]
+
+The Phoenix mothership is one of the first video arcade game bosses to be presented as a separate challenge.[4] This was before the term boss was coined.
+
+The player controls a spaceship that moves horizontally at the bottom of the screen, firing upward. Enemies, typically one of two types of birds, appear on the screen above the player's ship, shooting at it and periodically diving towards it in an attempt to crash into it. The ship is equipped with a shield that can be used to zap any of the alien creatures that attempt to crash into the spaceship. The player cannot move while the shield is active and must wait approximately five seconds before using it again.
+
+The player starts with three or six lives, depending on the settings.
+
+Each level has five separate rounds. The player must complete a round to advance to the next.
+
+Rounds 1 and 2 – The player must destroy a formation of alien birds. While in formation, some of the birds fly down kamikaze style, in an attempt to destroy the player's spaceship by crashing into it. Hitting a bird flying diagonally awards a bonus score. The birds are yellow in round 1, pink in round 2. The player's spaceship is given rapid fire for round 2, where the birds fly somewhat more unpredictably. These rounds are highly reminiscent of Galaxian.
+Rounds 3 and 4 – Flying eggs float on the screen and seconds later hatch, revealing larger alien birds, resembling phoenices, which swoop down at the player's spaceship. The only way to fully destroy one of these birds is by hitting it in its belly; shooting one of its wings merely destroys that wing, and if both wings are destroyed, they will regenerate. From time to time the birds may also revert to the egg form for a brief period. The birds are blue in round 3, pink in round 4.
+
+The mothership in Phoenix is one of the first bosses to appear in an arcade game.[4]
+Round 5 – The player is pitted against the mothership, which is controlled by an alien creature sitting in its center. To complete this round, the player must create a hole in the conveyor belt-type shield to get a clear shot at the alien. Hitting the alien with a single shot ends the level. The mothership fires missiles at the player, moves slowly down towards him, and has alien birds (from rounds 1 and 2) protecting the ship. Defeating all of the birds will produce a new wave.
+The game continues with increasing speed and unpredictability of the bird and phoenix flights.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/phoenix-image.jpg</image>
+		<releasedate>19800501T000000</releasedate>
+		<developer>Centuri</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pbobble.zip</path>
+		<name>Puzzle Bobble</name>
+		<desc>Puzzle Bobble  is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory. The goal is to aim the bubbles in such a way that they will touch identically colored ones. When such bubbles form a group of three or more, they pop and disappear from the screen.
+
+If the ceiling of the area is covered by too many bubbles, it will gradually descend; the game is over when it nearly reaches the player-controlled pointer. Should the player fail to release the bubbles within a specific time limit, they will be released automatically, unaffected by the pointer's aiming.
+
+A two-player mode is included as well. Each player competes on an area occupying half of the screen, dealing with identically generated bubbles. Whenever a player successfully disposes of a bubble group, a part of it is transferred onto the opponent's part of the screen.
+
+The game features the two dinosaur protagonists (Bob and Bub) as well as other characters from Bubble Bobble, even though the two games have distinctly different gameplay.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/pbobble-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pbobbl2j.zip</path>
+		<name>Puzzle Bobble 2</name>
+		<rating>0</rating>
+		<playcount>1</playcount>
+		<lastplayed>20180404T152551</lastplayed>
+	</game>
+	<game>
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an arcade game developed and published by Gottlieb in 1982. The objective is to change the color of every cube in a pyramid by making the on-screen character hop on top of the cube while avoiding obstacles and enemies.
+
+The game was conceived by Warren Davis and Jeff Lee. Lee designed the title character and original concept, which was then further developed and implemented by Davis. Q*bert was developed under the project name Cubes.
+
+Q*bert was well received in arcades and among critics. The game was Gottlieb's most successful video game and among the most recognized brands from the golden age of arcade video games. It has been ported to numerous platforms. The success resulted in sequels and the use of the character's likeness in merchandising, such as appearances on lunch boxes, toys, and an animated television show. The character Q*bert became known for his "swearing", an incoherent phrase of synthesized speech generated by the sound chip and a speech balloon of nonsensical characters that appear when he collides with an enemy.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/qbert-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Co.</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./rtype.zip</path>
+		<name>R-Type</name>
+		<desc>R-Type is a side scrolling shoot-em-up arcade game produced by Irem in 1987. The player controls a space fighter named the R-9 to defend humanity against a mysterious powerful alien life-form known as the "Bydo".
+
+The game is composed of several sequential levels, with a boss enemy at the end of each. The player must navigate terrain and fight enemies using various weapons. The player's spacecraft has, by default, a weak but rapid-firing main gun; and a more powerful gun called a wave cannon, which requires the player to hold the fire button to build up power for the cannon.
+
+During the game, the player can obtain an auxiliary device called a Force. This resembles a glowing orange ball. The Force can be attached to the front or back of the player's spacecraft, or detached to fly freely. When attached, the Force provides one of three different powerful weapons, in addition to the main gun and the wave cannon. When detached, these weapons cannot be used, but the Force will instead resort to a secondary set of guns, which can be fired by the player even if the Force is at a distance from the spacecraft. The Force has a secondary use as a shield; it is completely indestructible and can block most things fired at it, as well as damage or destroy enemies on contact.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/rtype-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./rtype2.zip</path>
+		<name>R-Type II</name>
+		<desc>R-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989. It is the second game in the R-Type series.
+
+The player controls a ship called the R-9C (or R-9 Custom), which is an improved version of its predecessor game's ship; the R-9. The ship's design was changed slightly, and the wave cannon was given a new charge level. Two new types of weapons (the Search Laser and Shotgun Laser) were added, bringing the total number of weapon types up to five. A new anti-ground unit bomb was also added to the missile inventory.
+
+Though the number of levels was decreased from the prequel, the number of enemies, their durability, and the number of bullets they shoot were greatly increased. Enemy movements and terrain were also made trickier, bringing the game's difficulty up considerably. The same revival system is used as in the prequel, where the player is brought back to a checkpoint whenever their ship is destroyed.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/rtype2-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19890102T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./rainbow.zip</path>
+		<name>Rainbow Islands</name>
+		<desc>Rainbow Islands is a 1987 arcade game developed and published by Taito. The game is subtitled "The Story of Bubble Bobble 2" and is the sequel to Taito's hit game Bubble Bobble from the previous year. It is the second of four arcade games in the Bubble Bobble series (followed by Bubble Symphony and Bubble Memories, but itself has two direct sequels: Parasol Stars and Bubble Bobble Part 2). The game was ported for numerous home computers and game consoles.
+
+Rainbow Islands - The Story of Bubble Bobble 2 est un jeu video de plates-formes developpe par Taito, initialement sorti en 1987 sur borne d'arcade. Il s'agit du second episode de la serie Bubble Bobble. Dans cette nouvelle aventure, le joueur incarne Bub ou Bob, qui ont repris leur forme humaine apres avoir ete transforme en « Bubble Dragon » dans le 1er episode. Les habitants de sept îles ont ete enleves par « Boss of Dark Shadow ». Le but du jeu est de rejoindre le sommet de chaque niveau avant que la montee des eaux ne submerge le heros. Bub a le pouvoir de lancer des arcs-en-ciel magiques qui font office d'armes et de plates-formes temporaires.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/rainbow-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./roadrunn.zip</path>
+		<name>Road Runner</name>
+		<desc>The player takes on the role of the Road Runner - from the much-loved Warner Bros. cartoon series - and must outrun and outsmart the villainous Wile E. Coyote, in this side-scrolling game from Atari. A variety of traps and pitfalls await the Road runner (such as a cannon, land mines, cliff-top drop etc.) which must be carefully avoided. It is possible, however, to lure Wile E. Coyote into these traps to put some valuable distance between the Road Runner and his pursuer. Road Runner must also eat the piles of seed that appear at various points throughout the stages, as missing five bird seeds will cause Road Runner to faint and result in the player losing a life.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/roadrunn-image.jpg</image>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./robocop.zip</path>
+		<name>RoboCop</name>
+		<desc>RoboCop is a side-scrolling platform shoot 'em up arcade game developed and published by Data East. The player controls RoboCop who advances through various stages that are taken from the 1987 movie. RoboCop was licensed to Data East by UK-based Ocean Software who in turn had obtained the rights straight from Orion Pictures at the script stage.
+
+RoboCop features nine levels of action, with two of the game's nine stages being first-person target shooting ranges, in which players can try to accrue bonus points and earn extra health. Marked crates can be smashed to reveal one of three Weapon power-ups; Three-way Gun, Dual Laser and the incredibly powerful Cobra Gun. The film's incidental music plays throughout the game and RoboCop's speech is sampled directly from the original film.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/robocop-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19880301T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./skyfox.zip</path>
+		<name>Sky Fox</name>
+		<rating>0</rating>
+		<playcount>1</playcount>
+		<lastplayed>20180404T153827</lastplayed>
+	</game>
+	<game>
+		<path>./sbomberb.zip</path>
+		<name>Space Bomber</name>
+		<rating>0</rating>
+		<playcount>1</playcount>
+		<lastplayed>20180404T153043</lastplayed>
+	</game>
+	<game>
+		<path>./invaders.zip</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a two-dimensional fixed shooter game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up. Defeating the aliens brings another wave that is more difficult, a loop which can continue indefinitely.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/invaders-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19780601T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./superpac.zip</path>
+		<name>Super Pac-Man</name>
+		<desc>Super Pac-Man is the fourth title of the Pac-Man series of games, released in Japan on August 11, 1982 and North America on October 1, 1982 and it is the fourth starring Pac-Man himself. It is also the second game to be created by series originator Namco, as Ms. Pac-Man (the second in the series) and Pac-Man Plus (released a few months before Super Pac-Man) were created without Namco's involvement.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/superpac-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./simpsons.zip</path>
+		<name>The Simpsons</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/simpsons-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910304T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>4+</players>
+	</game>
+</gameList>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Crash Bandicoot (E) (EDC) [SCES-00344].bin.ecm</path>
+		<name>Crash Bandicoot   .bin</name>
+		<playcount>2</playcount>
+		<lastplayed>20180404T224339</lastplayed>
+	</game>
+	<game>
+		<path>./Crash Bandicoot (USA).bin</path>
+		<name>Crash Bandicoot</name>
+		<desc>Crash Bandicoot, a heroic, agile and mutated marsupial who must save his girlfriend Tawna. The main antagonist is Doctor Neo Cortex, a mad scientist who was often ridiculed by the scientific community for his outlandish (but nearly workable) theories and is now motivated to prove his tormentors wrong by creating a mutated army of beasts to conquer the world. Cortex's henchman is Doctor Nitrus Brio, the insecure creator of the Evolvo-Ray. Crash's love interest is Tawna, a female bandicoot about to undergo experimentation by the Doctors. Helping Crash in his journey is an ancient witch doctor spirit named Aku Aku, who has scattered masks of himself throughout the islands to grant Crash special powers. The boss characters of the game include Papu Papu, the obese and short-tempered chief of the native village; Ripper Roo, a demented kangaroo with razor-sharp toenails; Koala Kong, a muscular but unintelligent koala; and Pinstripe Potoroo, the tommy gun-wielding bodyguard of Doctor Cortex.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Crash Bandicoot (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180404T230440</lastplayed>
+	</game>
+	<game>
+		<path>./Crash Bash (E) [SCES-02834].bin.ecm</path>
+		<name>Crash Bash  .bin</name>
+		<playcount>1</playcount>
+		<lastplayed>20180404T235230</lastplayed>
+	</game>
+	<game>
+		<path>./CTR - Crash Team Racing (USA).bin</path>
+		<name>Crash Team Racing</name>
+		<desc>The main antagonist of the story, Nitros Oxide, is the self-proclaimed fastest racer in the galaxy who threatens to turn Earth into a concrete parking lot. Preceding Oxide are four boss characters: Ripper Roo, a deranged straitjacket-wearing kangaroo; Papu Papu, the morbidly obese leader of the island's native tribe; Komodo Joe, a Komodo dragon with a speech sound disorder; and Pinstripe Potoroo, a greedy pinstripe-clad potoroo. The four boss characters, along with an imperfect and morally ambiguous clone of Crash Bandicoot named Fake Crash, become accessible as playable characters if the Adventure Mode is fully completed.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/CTR - Crash Team Racing (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>3</playcount>
+		<lastplayed>20180404T230604</lastplayed>
+	</game>
+	<game>
+		<path>./crash_bandicoot_2_-_cortex_strikes_back.bin</path>
+		<name>crash_bandicoot_2_-_cortex_strikes_back</name>
+		<playcount>2</playcount>
+		<lastplayed>20180404T224909</lastplayed>
+	</game>
+	<game>
+		<path>./Tekken 5 (USA).iso</path>
+		<name>Tekken 5</name>
+		<playcount>1</playcount>
+		<lastplayed>20180404T235247</lastplayed>
+	</game>
+</gameList>

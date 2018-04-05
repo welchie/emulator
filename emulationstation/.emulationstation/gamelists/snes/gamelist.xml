@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Donkey Kong Country (USA).sfc</path>
+		<name>Donkey Kong Country</name>
+		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
+
+Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Space Invaders - The Original Game (Europe).sfc</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. 
+The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Space Invaders - The Original Game (Europe)-image.jpg</image>
+		<releasedate>19971101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Bomberman (Europe).sfc</path>
+		<name>Super Bomberman</name>
+		<desc>Super Bomberman is the first video game in the Bomberman series to appear on the Super Nintendo Entertainment System. It is also the first four-player game to be released on the Super NES.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Bomberman (Europe)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Super Double Dragon (Europe).sfc</path>
+		<name>Super Double Dragon</name>
+		<desc>The two greatest martial arts heroes of all time are back -- in SUPER DOUBLE DRAGON, an all-new adventure with awesome new moves, impossible new missions, and a hair-raising new cast of enemies!
+Marian, a beautiful policewoman, is a student of Kung Fu and part-time assistant instructor at the martial arts training school run by Billy and Jimmy Lee. A narcotics investigator, she has disappeared while attempting to infiltrate the rughtless criminal mob known as the Black Shadow Warriors.
+It will take all your incomparable fighting skill and knowledge to find and rescure Marian. Alone, or with the help of your brother, you must face the fearsome onslaught of the Shadow Warriors with the fabled power and ferocity of the DOUBLE DRAGON!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Double Dragon (Europe)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars (Europe).sfc</path>
+		<name>Super Mario All-Stars</name>
+		<desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased “Lost Levels” are included.  These super challenging courses have never been available in this country until now!
+
+* Four great games in one game pak!
+* Battery backed memory saves up to 4 players’ progress through every game!
+* Play alone or 2 players can alternate play!
+* New 16-bit graphics, sound, and other surprises!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario All-Stars (Europe)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Kart (USA).sfc</path>
+		<name>Super Mario Kart</name>
+		<desc>The Super Mario GoKart Park is open for tons of racing fun!  Hit the track with Mario, Luigi, Yoshi and the Princess.  Get tough and lock fenders with Donkey Kong, Jr. and Bowser.  Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup!  Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.
+
+Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle Mode!  In four different maze-like courses you’ll use Koopa Shells, Banana Peels, Super Stars and other wacky weapons to burst your opponent's target balloons and triumph!
+
+* 2 games in 1 - Mario Grand Prix and Battle Mode
+* 8  Familiar Characters
+* 20 Different Tracks
+* 3 Different Skill Levels
+* Battery-backed memory saves your best times!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario Kart (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario World (Europe).sfc</path>
+		<name>Super Mario World</name>
+		<desc>Mario’s off on his biggest adventure ever, and this time he’s brought along a friend.  Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again.  Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser’s castle.
+
+Use Mario’s new powers and Yoshi’s voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps.  Climb mountains and cross rivers, and descend into subterranean depths.  Destroy the seven Koopa castles and find keys to gain entrance to hidden levels.  Discover more warps and thrilling bonus worlds than ever before!
+
+Mario’s back, and this time he’s better than ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World (Europe)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910813T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De).sfc</path>
+		<name>Super Mario World 2: Yoshi's Island</name>
+		<desc>Yoshi Returns to Save Baby Mario in this Sequel to Super Mario World!
+The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek’s clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi’s Island as you race to complete your quest.
+
+Is Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don’t be afraid to try EVERYTHING!!
+
+* 16 megs of memory provide 6 worlds - each with 8 stages!
+* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.
+* Huge characters and even bigger bosses require quick thinking!
+* Battery back-up to save your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19951004T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Super R-Type (Europe).sfc</path>
+		<name>Super R-Type</name>
+		<desc>In this SNES sequel to the arcade R-Type shooters, you are the R-9, Earth's most advanced form of defense against the evil BYDO Empire. There are seven stages you must go through, picking up power-up items to defeat the stage bosses which have returned from the arcade versions of R-Type and R-Type II. Your R-9 ship can also be united with FORCE, which are invincible units that surround your ship to protect you and can also power up and attack.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super R-Type (Europe)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Syndicate (Europe) (En,Fr,De).sfc</path>
+		<name>Syndicate</name>
+		<desc>In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hit man) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.
+
+The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way.
+
+You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Syndicate (Europe) (En,Fr,De)-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Laguna</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+</gameList>
