@@ -1,0 +1,20 @@
+Hatari v1.9.0, compiled on:  Sep 10 2015, 23:34:04
+IPF : IPF_Init
+IPF : capsimage library version release=5 revision=1
+Configured max Hatari resolution = 832x588, optimal for ST = 832x588
+Inserted disk 'C:\temp\emulator-emulator.test\emulationstation\\.emulationstation\roms\atarist\Boulder Dash (19xx)(Kraatz, Thomas).st' to drive A:.
+Bus Error at address $ff8006, PC=$e00054 addr_e3=e00054 op_e3=4a78
+Bus Error at address $ff8282, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Your system is too slow, some sound samples were not correctly emulated
+Bus Error at address $fffa40, PC=$e00886 addr_e3=e00886 op_e3=4a78
+Bus Error at address $ff8400, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff8282, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $fffa81, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff8c80, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff8e09, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff8961, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff8901, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff9201, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $ff8a3c, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Bus Error at address $f0001d, PC=$e00708 addr_e3=e00708 op_e3=4a10
+Floppy A: has been removed from drive.

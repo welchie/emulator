@@ -1,0 +1,1 @@
+Building CPU table for configuration: 68000 (compatible mode)
