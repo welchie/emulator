@@ -1,5 +1,6 @@
-# EmulationStation setup.
+Unzip Mame emulator into here:
 
-Just need to download emulators and ROMS into appropriate folders.
+http://www.mamedev.org/oldrel.html e.g. Mame 0.78b : https://mirrors.xmission.com/mame/releases/mame078b.zip
 
-launch_portable.bat to run.
+
+
