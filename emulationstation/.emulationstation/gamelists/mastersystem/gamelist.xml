@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Sonic The Hedgehog (USA, Europe).sms</path>
+		<name>Sonic the Hedgehog</name>
+		<desc>Bust the video game speed barrier wide open with Sonic The Hedgehog. Blaze by in a blur using the Super Sonic Spin Attack. Plummet down tunnels and spin through space. Bounce around 'til you're dizzy in a pinball machine. You've never seen anything like it!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Sonic The Hedgehog (USA, Europe)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910623T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 2 (Europe).sms</path>
+		<name>Sonic the Hedgehog 2</name>
+		<desc>Ride a runaway railcart, fly a hang glider through a raging storm, and shoot through a mind-boggling maze of twisting pipes as you and Sonic The Hedgehog race to save Tails and his friends from the evil Dr. Robotnik! It's the hottest 8-bit action ever!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Sonic The Hedgehog 2 (Europe)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19921121T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+</gameList>
