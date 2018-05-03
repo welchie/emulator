@@ -56,7 +56,7 @@
 		<developer>Wow</developer>
 		<publisher>Sega</publisher>
 		<genre>Horror</genre>
-		<players></players>
+		<players />
 	</game>
 	<folder>
 		<path>./Marvel vs. Capcom 2 - The New Age of Heroes (USA)</path>
@@ -103,7 +103,7 @@ Dig-Dug</desc>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Shenmue (Europe)/- Disc 1/Shenmue (Europe) - (Disc 1 of 4).gdi</path>

@@ -1,0 +1,106 @@
+lvl2: 	EmulationStation - v2.0.1a, built Mar  8 2015 - 16:10:39
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Gioteck PS3 Wired Controller (instance ID: 0, device index: 0)
+lvl2: 	Checking available OpenGL extensions...
+lvl2: 	 ARB_texture_non_power_of_two: ok
+lvl2: 	Loading system config file C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/es_systems.cfg...
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/snes/gamelist.xml"...
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/mame/gamelist.xml"...
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/mame\starw.zip"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/mame\starwar1.zip"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/mame\starwars.zip"" does not exist! Ignoring.
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/dreamcast/gamelist.xml"...
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Tomb Raider Chronicles (United Kingdom)\Tomb Raider Chronicles (United Kingdom).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Crazy Taxi (United Kingdom)\Crazy Taxi (United Kingdom).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Daytona USA 2001 (Europe)\Daytona USA 2001 (Europe).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Dead or Alive 2 (United Kingdom)\Dead or Alive 2 (United Kingdom).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\House of the Dead 2, The (Europe)\House of the Dead 2, The (Europe).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Marvel vs. Capcom 2 - The New Age of Heroes (USA)\Marvel vs. Capcom 2 - The New Age of Heroes (USA).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Mortal Kombat Gold (United Kingdom)\Mortal Kombat Gold (United Kingdom).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Namco Museum (USA)\Namco Museum (USA).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Shenmue (Europe)\- Disc 1\Shenmue (Europe) - (Disc 1 of 4).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Shenmue (Europe)\- Disc 2\Shenmue (Europe) - (Disc 2 of 4).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Shenmue (Europe)\- Disc 3\Shenmue (Europe) - (Disc 3 of 4).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Shenmue (Europe)\- Disc 4\Shenmue (Europe) - (Disc 4 of 4).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Sonic Adventure 2 (USA)\Sonic Adventure 2 (USA).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Star Wars - Episode I - Racer (United Kingdom)\Star Wars - Episode I - Racer (United Kingdom).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\StarLancer (United Kingdom)\StarLancer (United Kingdom).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Worms World Party (Europe)\Worms World Party (Europe).gdi"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\House of the Dead 2, The (Europe)"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/dcast\Marvel vs. Capcom 2 - The New Age of Heroes (USA)"" does not exist! Ignoring.
+lvl1: 	System "dreamcast" has no games! Ignoring it.
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/psx/gamelist.xml"...
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Crash Bandicoot (E) (EDC) [SCES-00344].bin.ecm"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Crash Bash (E) [SCES-02834].bin.ecm"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Tekken 5 (USA).iso"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 01).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 02).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 03).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 04).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 05).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 06).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 07).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 08).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 09).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 10).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 11).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It) (Track 12).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (Europe) (En,Fr,De,Es,It).cue"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA).7z"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (E) (Track 01) [SCES-01312].bin.ecm"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\WipEout 2097 (E) (Track 01) [SLES-00327].bin.ecm"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\WipEout (USA).7z"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (E) (Track 01) [SCES-01312].bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Kula World (Europe).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA) (Track 01).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA) (Track 02).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA) (Track 03).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA) (Track 04).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA) (Track 05).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\Devil Dice (USA) (Track 06).bin"" does not exist! Ignoring.
+lvl1: 	File ""C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/roms/psx\WipEout (USA) (Track 1).bin"" does not exist! Ignoring.
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/zxspectrum/gamelist.xml"...
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/mastersystem/gamelist.xml"...
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/atarist/gamelist.xml"...
+lvl2: 	Parsing XML file "C:/Users/welch/Documents/GitHub/emulator-portable/emulator/emulationstation//.emulationstation/gamelists/n64/gamelist.xml"...
+lvl2: 	Configuring device 0 (Gioteck PS3 Wired Controller).
+lvl2: 	  Mapping [Axis 1-] -> Up
+lvl2: 	  Mapping [Axis 1+] -> Down
+lvl2: 	  Mapping [Axis 0-] -> Left
+lvl2: 	  Mapping [Axis 0+] -> Right
+lvl2: 	  Mapping [Button 1] -> A
+lvl2: 	  Mapping [Button 2] -> B
+lvl2: 	  Mapping [Button 8] -> Start
+lvl2: 	  Mapping [Button 9] -> Select
+lvl2: 	  Mapping [Button 4] -> PageUp
+lvl2: 	  Mapping [Button 5] -> PageDown
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 	 getting volume as 18 ( from float 0.18)
+lvl2: 		%HOME%\.emulationstation\systems\mame\mame.exe -joy C:\Users\welch\Documents\GitHub\emulator-portable\emulator\emulationstation\\.emulationstation\roms\mame\1942.zip
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Gioteck PS3 Wired Controller (instance ID: 1, device index: 0)
+lvl2: 	Added known joystick Gioteck PS3 Wired Controller (instance ID: 1, device index: 0)
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	EmulationStation cleanly shutting down.
