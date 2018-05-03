@@ -1,6 +1,17 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./Tomb Raider Chronicles (United Kingdom)/Tomb Raider Chronicles (United Kingdom).gdi</path>
+		<name>Tomb Raider Chronicles</name>
+		<desc>A few days after the events described in Tomb Raider: The Last Revelation, Lara Croft is presumed dead. Her close friends begin to recollect her previous adventures, which occurred during different periods of her life. These include searching for the Philosopher's Stone in Rome; preventing the Spear of Destiny from falling into the hands of a ruthless gang leader; facing monsters on the Black Isle of Ireland as a child; and, finally, infiltrating a high-tech complex in pursuit of the Iris artefact. Like its predecessors, Tomb Raider: Chronicles is an action game with puzzle-solving and platforming elements. The gameplay is very similar to that of the previous games, with the addition of a few new skills. Lara can now walk on tightropes, swing on horizontal bars, and somersault forwards from a ledge while crouching. A grappling hook has been added to her inventory. The game also includes a level editor, allowing the player to create new stages for Lara to explore.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Tomb Raider Chronicles (United Kingdom)-image.jpg</image>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher />
+		<genre>Adventure</genre>
+		<players />
+	</game>
+	<game>
 		<path>./Crazy Taxi (United Kingdom)/Crazy Taxi (United Kingdom).gdi</path>
 		<name>Crazy Taxi</name>
 		<desc>Crazy Taxi is an arcade-like racer where the player takes the role of a taxi driver who weaves his way through crowded streets, across sidewalks and even under water, in a wild and frantic race to deliver passengers on time. The courses are largely set inside cities crowded with general traffic and pedestrians (which can't be run over, they dive away). The main goal is to bring as many customers as possible to their destination in time. Available customers are marked through circles and the colour represents the distance and the fare they offer. Green means long rides with plenty of money, and red ones are very short.</desc>
@@ -12,7 +23,24 @@
 		<genre>Racing</genre>
 		<players>2</players>
 		<playcount>1</playcount>
-		<lastplayed>20180404T214502</lastplayed>
+		<lastplayed>20180502T223356</lastplayed>
+	</game>
+	<game>
+		<path>./Daytona USA 2001 (Europe)/Daytona USA 2001 (Europe).gdi</path>
+		<name>Daytona USA 2001</name>
+		<playcount>2</playcount>
+		<lastplayed>20180414T201543</lastplayed>
+	</game>
+	<game>
+		<path>./Dead or Alive 2 (United Kingdom)/Dead or Alive 2 (United Kingdom).gdi</path>
+		<name>Dead or Alive 2</name>
+		<desc>A great leader was killed at the end of the 20th century. His name was Fame Douglas, and he was renowned as the sponsor of the legendary Dead or Alive World Combat Championship. Since his death, and in the absence of his charisma and leadership, the world has become chaotic. Yet something appears to be transpiring. Amid this chaos, it is announced that the "Dead or Alive Championship 2" will be held. However, Douglas's passing has taken with it the purpose and significance of the tournament. Even worse, the promoter of "Dead or Alive Championship 2", who is fond of conflicts and jealous of the string, is responsible for Douglas's death. The new promoter is more than a corrupt mastermind, but a man of pure evil. His involvement in the tournament has brought a sense of terror to the world, resulting in the infamous Tengu disaster that occurred at the end of the 20th century. The climax of the disaster is about to begin with a roaring battle.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Dead or Alive 2 (United Kingdom)-image.jpg</image>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 	<folder>
 		<path>./House of the Dead 2, The (Europe)</path>
@@ -29,8 +57,34 @@
 		<publisher>Sega</publisher>
 		<genre>Horror</genre>
 		<players></players>
-		<playcount>2</playcount>
-		<lastplayed>20180404T215247</lastplayed>
+	</game>
+	<folder>
+		<path>./Marvel vs. Capcom 2 - The New Age of Heroes (USA)</path>
+		<name>Marvel vs Capcom 2</name>
+	</folder>
+	<game>
+		<path>./Marvel vs. Capcom 2 - The New Age of Heroes (USA)/Marvel vs. Capcom 2 - The New Age of Heroes (USA).gdi</path>
+		<name>Marvel vs. Capcom 2</name>
+		<desc>Marvel vs. Capcom 2: New Age of Heroes is a fighting game, developed and published by Capcom. It is the fourth game in the Marvel vs. Capcom series of fighting games. With the fourth installment of this series, Capcom simplified the player controls to make the gameplay more accessible to the wider audience of casual players. The button configuration was trimmed down to 4 main buttons and 2 assist buttons. The game also features a different air-combo system and 3 on 3 tag, compared to the 2 on 2 tag from previous games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Marvel vs. Capcom 2 - The New Age of Heroes (USA)-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>20000630T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat Gold (United Kingdom)/Mortal Kombat Gold (United Kingdom).gdi</path>
+		<name>Mortal Kombat Gold</name>
+		<desc>Gameplay of Mortal Kombat Gold is largely based on that in Mortal Kombat 4 and includes several additional characters and stages not seen in Mortal Kombat 4 and a new weapon select mechanism. A second revision of the game, Hot New, was released about a month after the initial release intending to address some of the major issues in it. This version fixed the most severe bugs and glitches in the game and added the VMU memory card support, which allowed the save feature to function properly.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Mortal Kombat Gold (United Kingdom)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Midway</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./Namco Museum (USA)/Namco Museum (USA).gdi</path>
@@ -52,14 +106,102 @@ Dig-Dug</desc>
 		<players></players>
 	</game>
 	<game>
-		<path>./Tomb Raider Chronicles (United Kingdom)/Tomb Raider Chronicles (United Kingdom).gdi</path>
-		<name>Tomb Raider Chronicles</name>
-		<desc>A few days after the events described in Tomb Raider: The Last Revelation, Lara Croft is presumed dead. Her close friends begin to recollect her previous adventures, which occurred during different periods of her life. These include searching for the Philosopher's Stone in Rome; preventing the Spear of Destiny from falling into the hands of a ruthless gang leader; facing monsters on the Black Isle of Ireland as a child; and, finally, infiltrating a high-tech complex in pursuit of the Iris artefact. Like its predecessors, Tomb Raider: Chronicles is an action game with puzzle-solving and platforming elements. The gameplay is very similar to that of the previous games, with the addition of a few new skills. Lara can now walk on tightropes, swing on horizontal bars, and somersault forwards from a ledge while crouching. A grappling hook has been added to her inventory. The game also includes a level editor, allowing the player to create new stages for Lara to explore.</desc>
-		<image>~/.emulationstation/downloaded_images/dreamcast/Tomb Raider Chronicles (United Kingdom)-image.jpg</image>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Crystal Dynamics</developer>
-		<publisher></publisher>
+		<path>./Shenmue (Europe)/- Disc 1/Shenmue (Europe) - (Disc 1 of 4).gdi</path>
+		<name>Shenmue</name>
+		<desc>The first chapter of Yu Suzuki's epic saga is at hand. Shenmue is an adventure game that transports you to Japan, circa 1986. You are Ryo, a young man trying to solve the mystery of his father's death. Along the way, you'll be treated to the most richly-detailed game world ever conceived. Shenmue offers a true living world, where characters exist on their own timelines and almost all objects can be manipulated and used. Over the course of the adventure, you will learn new hand-to-hand fighting techniques, presented in breathtaking motion-captured animations. You'll also interact with literally hundreds of characters and solve a myriad of puzzles. It's epic storytelling at its best, and it's only on Dreamcast.
+
+A massive, highly-detailed 3D world featuring hundreds of interactive characters and objects to interact with. Real-time fighting and action scenes with motion capture by real budo experts. In-game arcade features Sega classics such as Hang-On and Space Harrier. "Magic Weather" technology brings the world to life with changes to landscapes, climate, and vegetation. Created by Yu Suzuki, the mastermind of arcade hits such as Virtua Fighter.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Shenmue (Europe) - (Disc 1 of 4)-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20001106T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
 		<genre>Adventure</genre>
-		<players></players>
+	</game>
+	<game>
+		<path>./Shenmue (Europe)/- Disc 2/Shenmue (Europe) - (Disc 2 of 4).gdi</path>
+		<name>Shenmue</name>
+		<desc>The first chapter of Yu Suzuki's epic saga is at hand. Shenmue is an adventure game that transports you to Japan, circa 1986. You are Ryo, a young man trying to solve the mystery of his father's death. Along the way, you'll be treated to the most richly-detailed game world ever conceived. Shenmue offers a true living world, where characters exist on their own timelines and almost all objects can be manipulated and used. Over the course of the adventure, you will learn new hand-to-hand fighting techniques, presented in breathtaking motion-captured animations. You'll also interact with literally hundreds of characters and solve a myriad of puzzles. It's epic storytelling at its best, and it's only on Dreamcast.
+
+A massive, highly-detailed 3D world featuring hundreds of interactive characters and objects to interact with. Real-time fighting and action scenes with motion capture by real budo experts. In-game arcade features Sega classics such as Hang-On and Space Harrier. "Magic Weather" technology brings the world to life with changes to landscapes, climate, and vegetation. Created by Yu Suzuki, the mastermind of arcade hits such as Virtua Fighter.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Shenmue (Europe) - (Disc 2 of 4)-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20001106T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Shenmue (Europe)/- Disc 3/Shenmue (Europe) - (Disc 3 of 4).gdi</path>
+		<name>Shenmue</name>
+		<desc>The first chapter of Yu Suzuki's epic saga is at hand. Shenmue is an adventure game that transports you to Japan, circa 1986. You are Ryo, a young man trying to solve the mystery of his father's death. Along the way, you'll be treated to the most richly-detailed game world ever conceived. Shenmue offers a true living world, where characters exist on their own timelines and almost all objects can be manipulated and used. Over the course of the adventure, you will learn new hand-to-hand fighting techniques, presented in breathtaking motion-captured animations. You'll also interact with literally hundreds of characters and solve a myriad of puzzles. It's epic storytelling at its best, and it's only on Dreamcast.
+
+A massive, highly-detailed 3D world featuring hundreds of interactive characters and objects to interact with. Real-time fighting and action scenes with motion capture by real budo experts. In-game arcade features Sega classics such as Hang-On and Space Harrier. "Magic Weather" technology brings the world to life with changes to landscapes, climate, and vegetation. Created by Yu Suzuki, the mastermind of arcade hits such as Virtua Fighter.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Shenmue (Europe) - (Disc 3 of 4)-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20001106T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Shenmue (Europe)/- Disc 4/Shenmue (Europe) - (Disc 4 of 4).gdi</path>
+		<name>Shenmue</name>
+		<desc>The first chapter of Yu Suzuki's epic saga is at hand. Shenmue is an adventure game that transports you to Japan, circa 1986. You are Ryo, a young man trying to solve the mystery of his father's death. Along the way, you'll be treated to the most richly-detailed game world ever conceived. Shenmue offers a true living world, where characters exist on their own timelines and almost all objects can be manipulated and used. Over the course of the adventure, you will learn new hand-to-hand fighting techniques, presented in breathtaking motion-captured animations. You'll also interact with literally hundreds of characters and solve a myriad of puzzles. It's epic storytelling at its best, and it's only on Dreamcast.
+
+A massive, highly-detailed 3D world featuring hundreds of interactive characters and objects to interact with. Real-time fighting and action scenes with motion capture by real budo experts. In-game arcade features Sega classics such as Hang-On and Space Harrier. "Magic Weather" technology brings the world to life with changes to landscapes, climate, and vegetation. Created by Yu Suzuki, the mastermind of arcade hits such as Virtua Fighter.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Shenmue (Europe) - (Disc 4 of 4)-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20001106T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Sonic Adventure 2 (USA)/Sonic Adventure 2 (USA).gdi</path>
+		<name>Sonic Adventure 2</name>
+		<desc>After discovering the existence of a secret weapon mentioned in the diary of his grandfather, Gerald Robotnik, Dr. Eggman infiltrates a high-security G.U.N. facility in search of it. This "weapon", a black hedgehog named Shadow who claims that he is the "Ultimate Life Form", offers to help Eggman take over the world, telling him to rendezvous with him at the abandoned Space Colony ARK with more Chaos Emeralds. Shadow proceeds in stealing one of the emeralds, and G.U.N. officials mistake him for Sonic. Sonic is apprehended shortly after he confronts Shadow, who demonstrates to Sonic the Chaos Control technique.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Sonic Adventure 2 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20010619T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Wars - Episode I - Racer (United Kingdom)/Star Wars - Episode I - Racer (United Kingdom).gdi</path>
+		<name>Star Wars: Episode I - Racer</name>
+		<desc>Star Wars Episode I: Racer is a racing video game based on the pod race featured in Star Wars Episode I: The Phantom Menace. As of 2011, the game holds the Guinness record as the best-selling sci-fi racing game, having worldwide sales of 3.12 million and beating other series like Wipeout and F-Zero.[1] An arcade version of the game featuring many similar tracks and characters was released in 2000.[2]</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Star Wars - Episode I - Racer (United Kingdom)-image.jpg</image>
+		<releasedate>20000101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./StarLancer (United Kingdom)/StarLancer (United Kingdom).gdi</path>
+		<name>Starlancer</name>
+		<desc>It's 2160, and the Eastern Alliance has launched a surprise attack on the Western Coalition's fleet and decimated it. The call has gone out for volunteers to become Alliance fighter pilots, and you have signed up with the 45th Volunteer Squadron.
+
+Designed by Chris and Erin Roberts, the creative force behind the Wing Commander/Privateer megaseries, this space fighting simulation features the genre's standard mission types: escort, fighter sweep, interception, attacking space stations, fighting in asteroid fields, etc.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/StarLancer (United Kingdom)-image.jpg</image>
+		<releasedate>20000331T000000</releasedate>
+		<developer>Warthog</developer>
+		<publisher>Crave</publisher>
+		<genre>Flight Simulator</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Worms World Party (Europe)/Worms World Party (Europe).gdi</path>
+		<name>Worms World Party</name>
+		<desc>Worms World Party is an artillery game, which is a type of Turn-based strategy game. Like its predecessors, Worms World Party involves controlling a team of worms and using a collection of weaponry to eliminate the opposing team(s). The worms can walk and jump around and use tools such as the ninja rope and parachute to move to otherwise unreachable locations. The worms have an arsenal of dozens of weapons, ranging from longbows to bazookas and from fireball to Holy Hand Grenades. There are also an array of special weapons, such as Armageddon (meteor shower) or the end-all, be-all Concrete Donkey. Some of these weapons are present in the worms' initial arsenal while others can be collected from randomly appearing crates during the game. For some weapons, such as grenades, holding the launching key longer shoots them further. The landscape can be deformed with any weapon, forcing the players to adapt to changing environments. Also, in addition to the nature-made obstacles, the maps may contain land mines which explode when a worm comes close to one, and barrels which explode when shot, spreading out some burning napalm. These often lead to fancy combinations where, for example, a worm is first hit with a grenade and is then thrown against a mine which sets off another worm, which hits a third worm who slips into the water.</desc>
+		<image>~/.emulationstation/downloaded_images/dreamcast/Worms World Party (Europe)-image.jpg</image>
+		<releasedate>20010603T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Titus Software</publisher>
+		<genre>Strategy</genre>
+		<players>4+</players>
 	</game>
 </gameList>

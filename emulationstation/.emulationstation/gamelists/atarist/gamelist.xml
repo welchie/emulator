@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Another World (1991)(Delphine)(Disk 1 of 2)[cr Elite].st</path>
+		<name>Another World</name>
+		<playcount>1</playcount>
+		<lastplayed>20180501T220331</lastplayed>
+	</game>
+	<game>
+		<path>./Arkanoid (1987)(Imagine).st</path>
+		<name>Arkanoid</name>
+		<playcount>3</playcount>
+		<lastplayed>20180407T224229</lastplayed>
+	</game>
+	<game>
+		<path>./Boulder Dash (19xx)(Kraatz, Thomas).st</path>
+		<name>Boulder Dash</name>
+		<playcount>2</playcount>
+		<lastplayed>20180407T224538</lastplayed>
+	</game>
+	<game>
+		<path>./Bubble Bobble (1987)(Firebird)[!].stx</path>
+		<name>Bubble Bobble</name>
+		<playcount>2</playcount>
+		<lastplayed>20180414T200925</lastplayed>
+	</game>
+	<game>
+		<path>./Carrier Command (1988)(Rainbird).st</path>
+		<name>Carrier Command</name>
+		<playcount>1</playcount>
+		<lastplayed>20180407T224154</lastplayed>
+	</game>
+	<game>
+		<path>./Magicland Dizzy (1991)(Codemasters).stx</path>
+		<name>Magicland Dizzy</name>
+		<playcount>1</playcount>
+		<lastplayed>20180407T223655</lastplayed>
+	</game>
+	<game>
+		<path>./Rainbow Islands (1989)(Ocean)(Disk 1 of 2)[cr Replicants].st</path>
+		<name>Rainbow Islands</name>
+		<playcount>1</playcount>
+		<lastplayed>20180414T202211</lastplayed>
+	</game>
+	<game>
+		<path>./Rainbow Islands (1989)(Ocean)(Disk 2 of 2)[cr Replicants].st</path>
+		<name>Rainbow Islands</name>
+		<playcount>1</playcount>
+		<lastplayed>20180407T223118</lastplayed>
+	</game>
+	<game>
+		<path>./Rick Dangerous (1989)(Core Design - Firebird)[!].stx</path>
+		<name>Rick Dangerous</name>
+		<playcount>1</playcount>
+		<lastplayed>20180407T222802</lastplayed>
+	</game>
+	<game>
+		<path>./Sensible Soccer (1992)(Renegade)(M4)[cr Vmax][one disk].st</path>
+		<name>Sensible Soccer</name>
+		<playcount>1</playcount>
+		<lastplayed>20180407T222946</lastplayed>
+	</game>
+</gameList>

@@ -25,6 +25,8 @@ The aim is to defeat five rows of eleven aliens—some versions feature differen
 		<publisher>Nintendo</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20180405T214604</lastplayed>
 	</game>
 	<game>
 		<path>./Super Bomberman (Europe).sfc</path>
@@ -88,6 +90,8 @@ Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle 
 		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20180414T201839</lastplayed>
 	</game>
 	<game>
 		<path>./Super Mario World (Europe).sfc</path>
@@ -134,6 +138,8 @@ Is Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate u
 		<developer>Irem</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180414T202105</lastplayed>
 	</game>
 	<game>
 		<path>./Syndicate (Europe) (En,Fr,De).sfc</path>
