@@ -7,6 +7,18 @@
 		<lastplayed>20180406T002308</lastplayed>
 	</game>
 	<game>
+		<path>./starwar1.zip</path>
+		<name>Star Wars</name>
+		<playcount>1</playcount>
+		<lastplayed>20180406T003206</lastplayed>
+	</game>
+	<game>
+		<path>./starwars.zip</path>
+		<name>Star Wars</name>
+		<playcount>2</playcount>
+		<lastplayed>20180406T002813</lastplayed>
+	</game>
+	<game>
 		<path>./1942.zip</path>
 		<name>1942</name>
 		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
@@ -17,8 +29,8 @@
 		<publisher>Capcom</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20180405T214013</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20180503T231459</lastplayed>
 	</game>
 	<game>
 		<path>./arknoid2.zip</path>
@@ -503,18 +515,6 @@ RoboCop features nine levels of action, with two of the game's nine stages being
 		<publisher>Midway Games</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./starwar1.zip</path>
-		<name>Star Wars</name>
-		<playcount>1</playcount>
-		<lastplayed>20180406T003206</lastplayed>
-	</game>
-	<game>
-		<path>./starwars.zip</path>
-		<name>Star Wars</name>
-		<playcount>2</playcount>
-		<lastplayed>20180406T002813</lastplayed>
 	</game>
 	<game>
 		<path>./superpac.zip</path>
